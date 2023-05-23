@@ -8,6 +8,8 @@ html>
             <div class="row text-center">
                 <h3>Acceder</h3>
                 <h3>primer cambio</h3>
+                <h3>segundo Cambio</h3>
+                <h3>terser Cambio</h3>
             </div>
             <div class="row">
                 <div class="col">
